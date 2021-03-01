@@ -23,7 +23,7 @@
     "quasar": "^1.0.0",
     "simple-peer": "^9.7.2",
     "socket.io-client": "^2.3.0",
-    "three": "^0.119.1",
+    "three": "^0.125.0",
     "vue-socket.io-extended": "^4.0.3"
   },
   "devDependencies": {
